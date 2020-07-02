@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.gudenau.minecraft.moreshulkers.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "CraftingInventoryAccessor",
+    "EnderChestInventoryMixin",
+    "MobEntityMixin",
+    "ShulkerBoxBlockEntityMixin",
+    "ShulkerBoxSlotMixin"
+  ],
+  "client": [
+    "client.BipedEntityRendererMixin",
+    "client.BlockColorsMixin",
+    "client.InventoryScreenMixin",
+    "client.MinecraftClientMixin",
+    "client.ModelLoaderMixin",
+    "client.PlayerEntityRendererMixin",
+    "client.TexturedRenderLayersMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

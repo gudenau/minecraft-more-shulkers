@@ -1,0 +1,13 @@
+{
+  "block.gud_moreshulkers.large_shulker": "Large Shulker Box",
+  "block.gud_moreshulkers.ender_shulker": "Ender Shulker Box",
+  "block.gud_moreshulkers.crafty_shulker": "Crafty Shulker Box",
+
+  "enchantment.gud_moreshulkers.wearable": "Wearable",
+
+  "container.gud_moreshulkers.largeShulker": "Large Shulker Box",
+  "container.gud_moreshulkers.enderShulker": "Ender Shulker Box",
+  "container.gud_moreshulkers.craftyShulker": "Crafty Shulker Box",
+
+  "container.gud_moreshulkers.shulker.color": "Color: %s"
+}

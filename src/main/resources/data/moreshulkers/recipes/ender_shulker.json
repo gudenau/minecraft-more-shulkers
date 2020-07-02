@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "-",
+    "#",
+    "-"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:ender_chest"
+    },
+    "-": {
+      "item": "minecraft:shulker_shell"
+    }
+  },
+  "result": {
+    "item": "gud_moreshulkers:ender_shulker"
+  }
+}
